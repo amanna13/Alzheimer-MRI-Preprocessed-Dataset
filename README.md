@@ -11,11 +11,12 @@ This repository contains the Alzheimer's MRI Preprocessed Dataset
 > This repository preserves a copy of the dataset to ensure its continued availability for researchers, students, and developers. **No ownership or authorship is claimed over the dataset or its contents.**
 > 
 > An archived copy of the dataset is currently available through **Mendeley Data**:
->
+> 
 > **Kumar, S., & Shastri, S. (2025). _Alzheimer MRI Preprocessed Dataset_. Mendeley Data, V1.**
 > **DOI:** https://doi.org/10.17632/3r8hw8wmmk.1
 >
->  If you have information regarding the original dataset creators or repository, please open an issue so proper attribution can be provided.
+>
+>  >If you have information regarding the original dataset creators or repository, please open an issue so proper attribution can be provided.
 
 ---
 
